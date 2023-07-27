@@ -1,6 +1,7 @@
 
 ## Hi there 👋
-
+- 🌱 백엔드 개발 좋아하는 이원규입니다.
+- 😋 동료들과 함께하는 문화에 관심이 많아, 팀 프로젝트를 즐깁니다 :)
 <div align="center">
   
   ⚒️ Tech Stack ⚒️
@@ -16,6 +17,14 @@
 </div>
 
 
+<div align="center">
+💻Problem Solving
+</br>
+</br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonk98)](https://solved.ac/wonk98/)
+  
+</div>
 <!--
 **OneK-2/OneK-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
