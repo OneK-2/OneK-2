@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![dino.gif](./dino.gif)
+![dino.gif](https://github.com/OneK-2/OneK-2/blob/main/dino.gif)
 
 </div>
 
