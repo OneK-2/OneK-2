@@ -36,16 +36,13 @@
 | 2023.02 ~ 2023.06   | 목적기 기반 심부름 서비스 "오다주웠다" |
 
 
-## Experience 💻
+## Education 💻
 
 | 기간                | 내용                                        | 
 |---------------------|:---------------------------------------------:|
 | 2024.03 ~ 현재      | 신한투자증권 프로 디지털 아카데미 4기       |
 | 2023.07 ~ 2023.09   | KB IT's Your Life 4기 |
 
-## Education
-OO대학교 / OOO학과
-- 기간
 ---
 
 [![Onek-2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onek-2&include_all_commits=true&show_icons=true&icon_color=424242)](https://github.com/anuraghazra/github-readme-stats)
