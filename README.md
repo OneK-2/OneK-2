@@ -10,7 +10,7 @@
 - 🌱 백엔드 개발 좋아하는 이원규입니다.
 - 😋 동료들과 함께하는 문화에 관심이 많아, 팀 프로젝트를 즐깁니다 :)
 - 🏖️ 즐겁게, 다함께 즐기며 성장하고 싶습니다.
-
+- 모두들 행복하세요!!
 ## Tech Stack ⚒️
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -50,26 +50,3 @@
 [![OneK-2's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wonk98)](https://solved.ac/profile/wonk98)
 
 
-<!--
-**OneK-2/OneK-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![dino.gif](https://github.com/OneK-2/OneK-2/blob/main/dino.gif)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonk98)](https://solved.ac/wonk98/)
-[![Onek-2's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneK-2&show_icons=true&theme=default)
-![Onek-2's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneK-2&show_icons=true&theme=default)
-
-<div align="center">
-💻Problem Solving
-
--->
