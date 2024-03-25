@@ -10,7 +10,7 @@
 - 🌱 백엔드 개발 좋아하는 이원규입니다.
 - 😋 동료들과 함께하는 문화에 관심이 많아, 팀 프로젝트를 즐깁니다 :)
 - 🏖️ 즐겁게, 다함께 즐기며 성장하고 싶습니다.
-- 모두들 행복하세요!!
+  
 ## Tech Stack ⚒️
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -43,7 +43,9 @@
 | 2024.03 ~ 현재      | 신한투자증권 프로 디지털 아카데미 4기       |
 | 2023.07 ~ 2023.09   | KB IT's Your Life 4기 |
 
-
+## Education
+OO대학교 / OOO학과
+- 기간
 ---
 
 [![Onek-2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onek-2&include_all_commits=true&show_icons=true&icon_color=424242)](https://github.com/anuraghazra/github-readme-stats)
