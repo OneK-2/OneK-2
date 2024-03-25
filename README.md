@@ -1,7 +1,9 @@
 
 <div align="center">
-  
+
+
 ![dino](https://github.com/OneK-2/OneK-2/assets/85729858/af24adf2-ea99-4f71-8087-ff1c6877ce0d)
+
 
 </div>
 
