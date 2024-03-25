@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![dino.gif](https://github.com/OneK-2/OneK-2/blob/main/dino.gif)
+![dino](https://github.com/OneK-2/OneK-2/assets/85729858/af24adf2-ea99-4f71-8087-ff1c6877ce0d)
 
 </div>
 
@@ -52,6 +52,7 @@
 <!--
 **OneK-2/OneK-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![dino.gif](https://github.com/OneK-2/OneK-2/blob/main/dino.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
