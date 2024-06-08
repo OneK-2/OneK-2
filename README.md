@@ -32,6 +32,7 @@
 
 | 기간                | 내용                                        | 
 |---------------------|:---------------------------------------------:|
+| 2024.05 ~ 2024.05   | [모바일 청첩장 서비스 "We'thing"](https://github.com/WE-thing/.github/tree/main) |
 | 2023.08 ~ 2023.09   | [실버타운 & 금융상품 추천 서비스 "파라솔"](https://github.com/KB04-Team1-Parasol/Parasol) |
 | 2023.02 ~ 2023.06   | [목적기 기반 심부름 서비스 "오다주웠다"](https://github.com/Team-Merona/Merona-Backend) |
 
