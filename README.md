@@ -16,10 +16,14 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
@@ -32,6 +36,7 @@
 
 | 기간                | 내용                                        | 
 |---------------------|:---------------------------------------------:|
+| 2024.08 ~ 2024.09   | [비대면 투자 전략 컨설팅 플랫폼 "Pickle"](https://github.com/PizzaPickle) |
 | 2024.05 ~ 2024.05   | [모바일 청첩장 서비스 "We'thing"](https://github.com/WE-thing/.github/tree/main) |
 | 2023.08 ~ 2023.09   | [실버타운 & 금융상품 추천 서비스 "파라솔"](https://github.com/KB04-Team1-Parasol/Parasol) |
 | 2023.02 ~ 2023.06   | [목적기 기반 심부름 서비스 "오다주웠다"](https://github.com/Team-Merona/Merona-Backend) |
@@ -41,7 +46,8 @@
 
 | 기간                | 내용                                        | 
 |---------------------|:---------------------------------------------:|
-| 2024.03 ~ 현재      | 신한투자증권 프로 디지털 아카데미 4기       |
+| 2024.09 ~ 2024.10      | 신한투자증권 트레이딩시스템부 인턴       |
+| 2024.03 ~ 2024.09      | 신한투자증권 프로 디지털 아카데미 4기       |
 | 2023.07 ~ 2023.09   | KB IT's Your Life 4기 |
 | 2018.03 ~ 2024.02   | 단국대학교 소프트웨어학과 |
 
